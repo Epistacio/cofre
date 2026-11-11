@@ -12,7 +12,7 @@ O Cofre é um kit de segurança digital feito em HTML, CSS e JavaScript. Ele ver
 
 - **Essa senha já vazou?** Consulta uma base real de senhas vazadas sem enviar a senha (k-anonimato).
 - **Quantos bits tem essa senha?** Estima a força da senha.
-- **NOME DA SUA FERRAMENTA:** o que ela faz.
+- **Esse link é suspeito?:** aponta sinais de golpe em um link, como falta de https, @ e endereço por IP
 
 ## O que eu aprendi
 
@@ -31,4 +31,4 @@ O histórico tem um arquivo `.env` com uma senha falsa, de propósito: foi um ex
 ## Créditos
 
 Código-base do Prof. Mario Rebello, na disciplina Introdução à Ciência da Computação (2026/2).
-A ferramenta NOME DA SUA FERRAMENTA é de minha autoria. Licença MIT.
+A ferramenta Esse link é suspeito? é de minha autoria. Licença MIT.
